@@ -1,4 +1,4 @@
-# deli_meals_app
+# Deli_Meals_app
 
 A new Flutter project.
 
